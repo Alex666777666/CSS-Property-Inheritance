@@ -6,6 +6,7 @@ html {
   font-size: 24px;
   height: 32px;
   list-style-type: none;
+  padding: 8px;
 }
 .properties-list__item {
   padding: 8px;
