@@ -4,10 +4,9 @@ html {
 .properties-list {
   color: #f39;
   font-size: 24px;
-  margin-top: 10px;
+  height: 32px;
   list-style-type: none;
 }
 .properties-list__item {
-  height: 32px;
   padding: 8px;
 }
